@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Patbu13
+- 👀 I’m interested in ... Game development, data science, AI (and getting an internship)
+- 🌱 I’m currently learning ... lots of languages! (python, javascript, SQL, common internship requirements)
+- 📫 How to reach me ... patrickbu_SC@hotmail.com
