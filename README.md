@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... AI, Game development, data science (and getting a job)
   
 - 👨‍💻 I have basic experience using ...
--    Python (+ Pandas, Matplotlib, NumPy)
+-   Python (+ Pandas, Matplotlib, NumPy)
 -   Java
 -   JavaScript (+ React)
 -   C++ & C#
