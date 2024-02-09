@@ -1,17 +1,17 @@
-- 👋 Hi, I’m @Patbu13
-- 👀 I’m interested in ... AI, Game development, data science (and getting a job)
+- 👀 I’m interested in ... Cloud Development, Software Consulting, AI (and getting a job)
   
-- 👨‍💻 I have basic experience using ...
+- 👨‍💻 I have experience using ...
+-   C# / .NET APIs
+-   Svelte
+-   SQL
 -   Python (+ Pandas, Matplotlib, NumPy)
 -   Java
 -   JavaScript (+ React)
--   C++ & C#
+-   HTML / CSS
+-   C++
 -   R
--   Haskell/Prolog
   
 - 🌱 I’m currently learning ...
-- SQL
-- FastAPI
-- Azure basics
+-   Azure
   
 - 📫 How to reach me ... patrickbu_SC@hotmail.com
